@@ -1,0 +1,25 @@
+# Private source data
+data_private/
+*.txt
+*.mat
+*.csv
+!requirements.txt
+
+# Generated analysis outputs
+results/
+figures/
+outputs/
+*.pdf
+*.png
+*.svg
+
+# Jupyter and Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
